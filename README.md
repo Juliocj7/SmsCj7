@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210816-234940_Termux](https://user-images.githubusercontent.com/81049859/129823243-ea0cff96-0999-4264-91a6-e570117e54fd.png)
+![Screenshot_20220522-011739_Termux](https://user-images.githubusercontent.com/81049859/169680573-e0c068f6-4285-4129-9c5d-9d2c0ee4fda6.png)
+
 
 
 ## SmsCj7 :
