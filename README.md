@@ -22,11 +22,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220522-011739_Termux](https://user-images.githubusercontent.com/81049859/169680573-e0c068f6-4285-4129-9c5d-9d2c0ee4fda6.png)
-
-
 
 ## SmsCj7 :
 * Envíe cada 12 o 24 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
@@ -41,8 +38,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/SmsCj7`
 
 * `cd SmsCj7`
