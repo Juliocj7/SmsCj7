@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220522-011739_Termux](https://user-images.githubusercontent.com/81049859/169680573-e0c068f6-4285-4129-9c5d-9d2c0ee4fda6.png)
+![Screenshot_20220609-123607_Termux](https://user-images.githubusercontent.com/81049859/172899118-bc9aea0d-7f6c-4530-95b7-b1c72e3aa661.png)
 
 ## SmsCj7 :
 * Envíe cada 12 o 24 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
