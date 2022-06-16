@@ -29,7 +29,7 @@
 ![Screenshot_20220615-223554_Messages](https://user-images.githubusercontent.com/81049859/173979237-5f16b0c4-f66f-4e93-bb62-0f33b6c6d047.png)
 
 ## SmsCj7 :
-* Envíe cada 12 o 24 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
+* Envíe cada 12 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
