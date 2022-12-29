@@ -23,10 +23,11 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220615-223538_Termux](https://user-images.githubusercontent.com/81049859/173979215-e779991b-a052-4f0c-a76e-7cf2d6bf18e3.png)
+![Screenshot_20221229-001717_Termux](https://user-images.githubusercontent.com/81049859/209902921-47c6ee94-23bb-4ef9-b6c5-c0f064c1e219.png)
 
 ## Sms Recibido :
-![Screenshot_20220615-223554_Messages](https://user-images.githubusercontent.com/81049859/173979237-5f16b0c4-f66f-4e93-bb62-0f33b6c6d047.png)
+![Screenshot_20221229-001734_Termux](https://user-images.githubusercontent.com/81049859/209902950-27996f63-4c2b-435c-90f9-f7e158d24cd6.png)
+![Screenshot_20221229-001748_Messages](https://user-images.githubusercontent.com/81049859/209902958-aa4250c8-55b8-40e8-8be0-5d760ca5852a.png)
 
 ## SmsCj7 :
 * Envíe cada 12 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
