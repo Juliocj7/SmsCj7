@@ -26,8 +26,8 @@
 ![1000328800](https://github.com/Juliocj7/SmsCj7/assets/81049859/500982be-2ded-4a59-9057-4b3204081efa)
 
 ## Sms Recibido :
-![Screenshot_20221229-001734_Termux](https://user-images.githubusercontent.com/81049859/209902950-27996f63-4c2b-435c-90f9-f7e158d24cd6.png)
-![Screenshot_20221229-001748_Messages](https://user-images.githubusercontent.com/81049859/209902958-aa4250c8-55b8-40e8-8be0-5d760ca5852a.png)
+|![1000329319](https://github.com/Juliocj7/SmsCj7/assets/81049859/d786ae62-c1b0-4ffb-9bc3-2317a5e00a2f)|![1000329320](https://github.com/Juliocj7/SmsCj7/assets/81049859/3f70852c-5296-4625-adef-a4f30d864a03)|
+|-|-|
 
 ## SmsCj7 :
 * Envíe cada 12 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
