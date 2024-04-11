@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221229-001717_Termux](https://user-images.githubusercontent.com/81049859/209902921-47c6ee94-23bb-4ef9-b6c5-c0f064c1e219.png)
+![1000328800](https://github.com/Juliocj7/SmsCj7/assets/81049859/500982be-2ded-4a59-9057-4b3204081efa)
 
 ## Sms Recibido :
 ![Screenshot_20221229-001734_Termux](https://user-images.githubusercontent.com/81049859/209902950-27996f63-4c2b-435c-90f9-f7e158d24cd6.png)
