@@ -50,7 +50,7 @@ ______________________________________________________
 |-|-|
 
 ## SmsCj7 :
-* Envíe cada 12 horas un **SMS** Nacional e Internacional con Número Anónimo desde Termux.
+* Envíe cada 12 horas un **SMS** nacional e internacional con número anónimo desde Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -58,17 +58,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/SmsCj7`
-
-* `cd SmsCj7`
-
-* `chmod +x *`
-
-* `./SmsCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/SmsCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd SmsCj7 && chmod +x * && ./SmsCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
