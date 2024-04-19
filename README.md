@@ -45,22 +45,26 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328800](https://github.com/Juliocj7/SmsCj7/assets/81049859/500982be-2ded-4a59-9057-4b3204081efa)
 
-## Sms Recibido :
+|Free SMS|received|
+|:------:|:------:|
 |![1000329319](https://github.com/Juliocj7/SmsCj7/assets/81049859/d786ae62-c1b0-4ffb-9bc3-2317a5e00a2f)|![1000329320](https://github.com/Juliocj7/SmsCj7/assets/81049859/3f70852c-5296-4625-adef-a4f30d864a03)|
-|-|-|
 
 ## SmsCj7 :
 * Envíe cada 12 horas un **SMS** nacional e internacional con número anónimo desde Termux.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+- > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-> [!NOTE]  
-> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
+> [!NOTE]
+> > <details>
+> >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
+> >
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚁𝚎𝚌𝚞𝚛𝚜𝚘𝚜 𝚋𝚊𝚜𝚒𝚌𝚘𝚜](https://github.com/Juliocj7/UtilsCj7)
+> > </details>
 
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Clonar repositorio
 ```shell
@@ -72,6 +76,27 @@ cd SmsCj7 && chmod +x * && ./SmsCj7
 ```
 
 ---
-###### `Pd: Porfavor informar cualquier error`
-###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
+
+> [!CAUTION]
+> > <sub>𝚂𝚘𝚛𝚛𝚢, 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚞𝚗𝚍𝚎𝚛 𝚖𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎.</sub><br>
+> > <sub>¡ 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝙾𝙾𝚗 !</sub>
+
 ---
+
+```ShellSession
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+```
+
+<div align="center">
+  <sub>
+    
+  > 𝙿𝚘𝚛𝚏𝚊𝚟𝚘𝚛 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚞𝚊𝚕𝚚𝚞𝚒𝚎𝚛 𝚎𝚛𝚛𝚘𝚛
+
+  </sub>
+</div>
+
+<div align="center">
+  <a href="#--------">
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  </a>
+</div>
