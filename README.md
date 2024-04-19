@@ -45,8 +45,9 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328800](https://github.com/Juliocj7/SmsCj7/assets/81049859/500982be-2ded-4a59-9057-4b3204081efa)
 
-|Free SMS|received|
-|:------:|:------:|
+## Mensaje Recibido :
+|sample|samole|
+|:----:|:----:|
 |![1000329319](https://github.com/Juliocj7/SmsCj7/assets/81049859/d786ae62-c1b0-4ffb-9bc3-2317a5e00a2f)|![1000329320](https://github.com/Juliocj7/SmsCj7/assets/81049859/3f70852c-5296-4625-adef-a4f30d864a03)|
 
 ## SmsCj7 :
